@@ -1,7 +1,7 @@
 # key_system
 A discord.py key redeem system ! 
 
-Uses sqlite3 , discord.py , its very fast and short to use (UNDER 100 LINES OF CODE) 
+Uses sqlite3 , discord.py , rstr its very fast and short to use (UNDER 100 LINES OF CODE) 
 
 
 ### Features
